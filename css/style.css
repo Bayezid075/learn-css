@@ -1,0 +1,28 @@
+.container{
+    background-color: lightblue;
+}
+#first-div{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    background: forestgreen;
+    top: 10px;
+}
+
+#second-div{
+    height: 100px;
+    width: 100px;
+    background: blue;
+   position: relative;
+
+}
+
+#treird-div{
+    height: 100px;
+    width: 100px;
+    background: red;
+
+    /* position: absolute; position:  absolute tar parent element er sathe thake  */
+
+}
+
